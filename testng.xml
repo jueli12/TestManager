@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="D:/ศํนค/Java/java Project/BeanUtils/src/test/java/org/apache/commons/beanutils/BeanUtilsTest.java"><classes><class name="org.apache.commons.beanutils.BeanUtilsTest"><methods><include name="testSetProperty"/></methods></class></classes></test></suite>
